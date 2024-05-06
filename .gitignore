@@ -1,0 +1,23 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.vscode/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore temporary files
+*.bak
+*.tmp
+
+# Ignore application settings (if applicable)
+*.config
+
+# Ignore sensitive or environment-specific files (if applicable)
+appsettings.json
